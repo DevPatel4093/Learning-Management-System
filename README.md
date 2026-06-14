@@ -330,8 +330,8 @@ Use:
 
 **Dev Patel**
 
-B.Tech Computer Science Engineering
-
-Learning Management System (LMS) – MERN Stack Project
-
 ---
+
+## License
+
+This project is licensed under the MIT License.
