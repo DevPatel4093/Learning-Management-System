@@ -127,17 +127,7 @@ Learning-Management-System/
 
 ## ⚙️ Installation
 
-### 1. Clone Repository
-
-```bash
-git clone https://github.com/yourusername/learning-management-system.git
-
-cd learning-management-system
-```
-
----
-
-### 2. Backend Setup
+### 1. Backend Setup
 
 Navigate to server folder:
 
@@ -176,7 +166,7 @@ npm run dev
 
 ---
 
-### 3. Frontend Setup
+### 2. Frontend Setup
 
 Navigate to client folder:
 
